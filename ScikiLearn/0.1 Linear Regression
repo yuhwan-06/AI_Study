@@ -2913,54 +2913,6 @@
    "source": [
     "sr.score(X_train, y_train)"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "6acaef53-573b-4e89-a492-cb7c86dbdd16",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "3ac586f8-e6a3-4a57-9fe2-f59e89de613b",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "6c6c5cca-b6e1-457d-9814-ec37fb290c06",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "c4ecb5ca-9171-43cc-9a64-1a4b72fa87f1",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "41431adb-53cc-4805-bfd7-6d6f7548b694",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "72feb45c-e8a9-456c-b975-a9cb812cd0d6",
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
